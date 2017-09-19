@@ -1,2 +1,2 @@
 # MediaPlayer
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/APOORVAGRAWAL24/MediaPlayer/blob/master/media.jpg)
